@@ -9,7 +9,7 @@ public class ForkMeHarder {
     {
         Scanner input = new Scanner(System.in);
         
-        System.out.println("Hello there traveler, what is your naeme? ");
+        System.out.println("Hello there traveler, what is your name? ");
         
     }
     
